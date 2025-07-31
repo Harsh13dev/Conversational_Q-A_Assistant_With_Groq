@@ -29,8 +29,8 @@ This project implements an **end-to-end conversational Q&A assistant with memory
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/harsh13dev/conversational_q-a_assistant_with_groq.git
-   cd conversational_q-a_assistant_with_groq
+   git clone https://github.com/Harsh13dev/Conversational_Q-A_Assistant_With_Groq.git
+   cd Conversational_Q-A_Assistant_With_Groq
    ```
 
 2. **Install dependencies**:
